@@ -160,7 +160,7 @@
     <message>
         <location filename="../gui/PcView.qml" line="242"/>
         <source>You cannot pair while a previous session is still running on the host PC. Quit any running games or reboot the host PC, then try pairing again.</source>
-        <translation>Solange eine vorherige Session auf dem Host läuft, kannst du nicht Pairen. Beende alle laufenden Apps oder starte den Host neu. Dann probiere das pairen nochmal.</translation>
+        <translation>Solange eine vorherige Session auf dem Host läuft, kannst du nicht pairen. Beende alle laufenden Apps oder starte den Host neu. Dann probiere das pairen nochmal.</translation>
     </message>
     <message>
         <location filename="../gui/PcView.qml" line="297"/>
@@ -290,7 +290,7 @@
         <location filename="../streaming/session.cpp" line="89"/>
         <source>No video received from host.</source>
         <translation>Kein Video vom Host empfangen.</translation>
-    </message> 
+    </message>
     <message>
         <location filename="../streaming/session.cpp" line="90"/>
         <source>Check your firewall and port forwarding rules for port(s): %1</source>
@@ -339,7 +339,7 @@
     <message>
         <location filename="../streaming/session.cpp" line="592"/>
         <source>Using unsupported FPS options may cause stuttering or lag.</source>
-        <translation>Nicht unterstützte FPS Optionenen können Stottern verursachen.</translation>
+        <translation>Nicht unterstützte FPS Optionen können Stottern verursachen.</translation>
     </message>
     <message>
         <location filename="../streaming/session.cpp" line="595"/>
